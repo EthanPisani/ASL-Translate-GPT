@@ -1,0 +1,5 @@
+Hi Ethan lol
+Michael testing
+
+deps:
+openssl libssl-dev curl cmake
